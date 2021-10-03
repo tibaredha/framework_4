@@ -125,3 +125,4 @@ AdminLTE.io reserves the right to change the license of future releases.
 - [Uifaces](http://uifaces.com/)
  projet : tibaredha
  projet : tibaredha
+ projet : tibaredha
